@@ -1,0 +1,52 @@
+body{
+  font-family: Arial;
+  background-color: #F2F3F4;
+}
+
+img {
+  display: block;
+  width: 200px;
+  margin: 30px auto;
+  border: 1px solid black;
+}
+
+h1 {
+  margin: 50px 0 30px;
+  font-size: 36px;
+  /*font-family: Arial;*/
+}
+
+h2 {
+  font-size: 18px;
+  /*font-family: Arial;*/
+}
+
+li {
+  font-size: 14px;
+}
+
+.container {
+  width: 40%;
+  margin: 0 auto;
+}
+
+.allcaps {
+  text-transform: uppercase;
+}
+
+.name p {
+  color: grey;
+}
+
+.phone li,
+.vk li,
+.feedback li {
+  list-style-type: none;
+}
+
+.study,
+.phone,
+.vk,
+.feedback {
+  font-family: "Myriad Pro";
+}
