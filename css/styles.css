@@ -1,50 +1,50 @@
-body{
-  font-family: Arial;
-  background-color: #F2F3F4;
+body {
+    background-color: #f2f3f4;
+    font-family: Arial;
 }
 
 .container {
-  width: 40%;
-  margin: 0 auto;
+    width: 40%;
+    margin: 0 auto;
 }
 
 h1 {
-  margin: 50px 0 30px;
-  font-size: 36px;
+    margin: 50px 0 30px;
+    font-size: 36px;
 }
 
 h2 {
-  font-size: 18px;
+    font-size: 18px;
 }
 
 img {
-  display: block;
-  width: 200px;
-  margin: 30px auto;
-  border: 1px solid black;
+    display: block;
+    width: 200px;
+    margin: 30px auto;
+    border: 1px solid #000;
 }
 
 li {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 .allcaps {
-  text-transform: uppercase;
+    text-transform: uppercase;
 }
 
 .name p {
-  color: grey;
+    color: #808080;
 }
 
 .phone li,
 .vk li,
 .feedback li {
-  list-style-type: none;
+    list-style-type: none;
 }
 
 .study,
 .phone,
 .vk,
 .feedback {
-  font-family: "Myriad Pro";
+    font-family: 'Myriad Pro';
 }
